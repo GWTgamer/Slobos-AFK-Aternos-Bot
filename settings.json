@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "khetokeandar.aternos.me",
+    "ip": "barfish.aternos.host:33987",
     "port": 33987,
     "version": "1.21.11",
     "try-creative": false
